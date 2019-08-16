@@ -1,2 +1,2 @@
-call gradlew genEclipseRuns
+call gradlew genSources eclipse
 pause
